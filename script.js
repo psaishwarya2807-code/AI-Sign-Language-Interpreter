@@ -1,1 +1,3 @@
-console.log("AI Sign Language Interpreter");
+function startDetection() {
+    alert("Sign Language Detection will start soon!");
+}
