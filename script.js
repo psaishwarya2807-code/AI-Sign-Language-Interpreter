@@ -1,3 +1,3 @@
 function startDetection() {
-    alert("Sign Language Detection will start soon!");
+    alert("Sign Language Detection will be added soon!");
 }
